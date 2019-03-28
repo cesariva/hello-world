@@ -1,2 +1,15 @@
 I
+Recordemos los criterios para selecionar el scraping:
+
+● Idoneidad de las respuestas (deberán ser claras y completas).
+● Complejidad del sitio web elegido para la extracción.
+● Síntesis y claridad, a través del uso de comentarios, del código resultante.
+● Presentación adecuada de los datos.
+● Organización y claridad del documentos de entrega final.
+● Completitud de los documentos requeridos para la entrega final.
+
+Ideas:
 - Hacer web scraping de subtitulos de youtube, para concentrarnos en un tema específico como por ejemplo temas o problemas de movilidad
+Aqui hay algun ejemplo de como hacerlo manualmete: 
+https://medium.com/future-journalism-project/how-to-extract-the-transcript-for-captions-on-youtube-videos-7720a856af
+
