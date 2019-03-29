@@ -7,9 +7,14 @@ Recordemos los criterios para selecionar el scraping:
 ● Presentación adecuada de los datos.
 ● Organización y claridad del documentos de entrega final.
 ● Completitud de los documentos requeridos para la entrega final.
-
+mp
 Ideas:
 - Hacer web scraping de subtitulos de youtube, para concentrarnos en un tema específico como por ejemplo temas o problemas de movilidad
 Aqui hay algun ejemplo de como hacerlo manualmete: 
 https://medium.com/future-journalism-project/how-to-extract-the-transcript-for-captions-on-youtube-videos-7720a856af
+
+- tal vez sea mejor empezar por algo mas sencillo e ir acanzando en complejidad  
+una informacion que siempre quise descargae es la de esta pagina
+https://www.tenable.com/plugins/nessus/23847 
+en la cual cambiando el numero cambia informacion de una vulnerabilidad
 
