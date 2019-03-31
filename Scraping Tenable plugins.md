@@ -26,6 +26,17 @@ Igualmente se puede ver que la politica es para todo tipo de robot con cualquier
 En este archivo se muestran 2 links a 2 paginas de urls del sitio, en total 5274 en estos no se encuentra el link https://www.tenable.com/plugins/nessus/
 
 
+## Tamaño
+La idea del scraping no es buscar en todo el contenido del sitio, solo se quiere descargar los plugins, por lo tanto al buscar en la pagina https://www.tenable.com/plugins/ se observa que el plugin mas reciente es el 123519
+
+Realizando la búsqueda en google con ´site:www.tenable.com/plugins/nessus/´ indicó alrededor de 79300 resultados, lo que nos da una idea que podemos encontra información de alrededor de 100 mil plugins.
+
+Cada pagina de plugin puede contener alrededor de 1kB de información con lo cual estariamos estimando una base de datos de alrededor 100MB, lo cual resulta viable y descargable en un tiempo moderado.
+
+
+
+
+
 
 
 
