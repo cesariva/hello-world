@@ -33,6 +33,8 @@ Realizando la búsqueda en google con ´site:www.tenable.com/plugins/nessus/´ i
 
 Cada pagina de plugin puede contener alrededor de 1kB de información con lo cual estariamos estimando una base de datos de alrededor 100MB, lo cual resulta viable y descargable en un tiempo moderado.
 
+## Tecnologia
+Utilizando la funcion builtwith de python se descubrió la siguiente tecnologia:
 
 
 
