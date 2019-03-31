@@ -35,7 +35,7 @@ Cada pagina de plugin puede contener alrededor de 1kB de información con lo cua
 
 ## Tecnologia
 Utilizando la funcion builtwith de python se descubrió la siguiente tecnologia:
-´´´{u'cdn': [u'CloudFlare'], u'javascript-frameworks': [u'jQuery'], u'tag-managers': [u'Google Tag Manager'], u'marketing-automation': [u'Marketo'], u'programming-languages': [u'PHP'], u'cms': [u'Drupal']}´´´
+```{u'cdn': [u'CloudFlare'], u'javascript-frameworks': [u'jQuery'], u'tag-managers': [u'Google Tag Manager'], u'marketing-automation': [u'Marketo'], u'programming-languages': [u'PHP'], u'cms': [u'Drupal']}```
 
 
 
