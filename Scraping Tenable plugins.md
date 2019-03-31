@@ -59,7 +59,7 @@ La información que se quiere descargar se encuentra de manera pública, no requ
 
 La información igualmente se encuentra indexada en Google.
 
-La información es publicada por una compañía por lo tanto ella puede tener los derechos de la misma asi sea publica, por lo tanto la información descargada no puede ser utilizada para fines comerciales, solo académicos.
+La información es publicada por una compañía por lo tanto ella puede tener los derechos de la misma asi sea publica, por lo tanto la información descargada no puede ser utilizada para fines comerciales, solo académicos. Se utilizará una descarga conservadora que sea similar a una descarga de un usuario.
 
 
 
